@@ -26,6 +26,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Woman in Sacred History
 
   A Series of Sketches Drawn from Scriptural, Historical,
